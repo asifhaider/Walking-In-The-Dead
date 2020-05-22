@@ -1,0 +1,5 @@
+1            abc            300
+2            asif            255
+3            ANIK            150
+4            asdasd            132
+5                        94
