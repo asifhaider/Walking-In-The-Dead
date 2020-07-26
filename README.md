@@ -6,7 +6,7 @@ This is the very first project of my UnderGraduate Study Life at CSE, BUET. It w
 
 As a part of our **Level 1 Term 1** Project on **Structured Programming Language (C)**, it was developed. We used **iGraphics** (OpenGL wrapper for the graphical demonstration).
 
-Description : This is a 2D Zombie-Shooting Game named **Walking In The Dead**. The goal is to shoot the attacker zombies and gain points to pass the levels. Further instructions on Gameplay and How to Play can be found at the **How to Play** section inside the game. There is also a **High Score** section to enlist your best scores.
+Description : This is a 2D Zombie-Shooting Game named **Walking In The Dead**. The goal is to shoot the attacker zombies and gain points to pass the levels. Further instructions on Gameplay and How to Play can be found at the **How to Play** section inside the game. There is also a **High Score** section to enlist your best scores. Play the **Gameplay.mp4** video to take a look at the game. 
 
 To run the game, do any of the following inside **Game** folder: 
 - run **OpenGL.exe** or, 
